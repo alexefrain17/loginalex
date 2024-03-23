@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49475642904",
+    "project_id": "inicio-sesion-ea0fc",
+    "storage_bucket": "inicio-sesion-ea0fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49475642904:android:6cc010675c47879cc5c56d",
+        "android_client_info": {
+          "package_name": "com.example.iiniciosesion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIWieuqyLJPlVbJw4_ATAwgUZsOWLKc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
